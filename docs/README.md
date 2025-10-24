@@ -1,5 +1,11 @@
 # Mineflayer
 
+# Note: This version of mineflayer is no longer receiving updates
+
+For a more up-to-date alternative **specifically tested for 1.8.9 and 1.21.5**, see my other fork: [https://github.com/binmasterdotpro/mineflayer](https://github.com/binmasterdotpro/mineflayer)
+
+--- 
+
 [![NPM version](https://img.shields.io/npm/v/mineflayer.svg?color=success&label=npm%20package&logo=npm)](https://www.npmjs.com/package/mineflayer)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/PrismarineJS/mineflayer/ci.yml.svg?label=CI&logo=github&logoColor=lightgrey)](https://github.com/PrismarineJS/mineflayer/actions?query=workflow%3A%22CI%22)
 [![Try it on gitpod](https://img.shields.io/static/v1.svg?label=try&message=on%20gitpod&color=brightgreen&logo=gitpod)](https://gitpod.io/#https://github.com/PrismarineJS/mineflayer)
